@@ -35,4 +35,4 @@ console.log(filteredUsers([{
     firstName: "Albedo",
     lastName: "Y",
     age: 17
-}]))
+}]));
